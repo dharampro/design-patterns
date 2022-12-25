@@ -1,4 +1,4 @@
 package com.adumate.observer;
 
-public interface Observer {
+public class ObserverTest {
 }
